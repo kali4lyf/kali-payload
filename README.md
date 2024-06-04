@@ -11,7 +11,7 @@ FOR WINDOWS REVERSE SHELL YOU NEED TO MAKE SURE THAT IN THE WINDOWS MACHINE YOU 
 
 **Clone the repository:**
  ```bash
- git clone https://github.com/kali4lyf/kali-payload.GIT
+ git clone https://github.com/kali4lyf/kali-payload.git
  cd kali-payload
 ```
 
