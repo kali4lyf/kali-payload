@@ -6,11 +6,12 @@ IN OTHER WISE I WILL YOU ALL THE VERY BEST
 
 FOR WINDOWS REVERSE SHELL YOU NEED TO MAKE SURE THAT IN THE WINDOWS MACHINE YOU HAVE PYTHON INSTALLED
 
-#INSTALLION
+
+##INSTALLION
 
 **Clone the repository:**
  ```bash
- git clone https://github.com/kali4lyf/kali-payload
+ git clone https://github.com/kali4lyf/kali-payload.GIT
  cd kali-payload
 
 
