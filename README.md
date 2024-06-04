@@ -16,20 +16,18 @@ FOR WINDOWS REVERSE SHELL YOU NEED TO MAKE SURE THAT IN THE WINDOWS MACHINE YOU 
 ```
 
 
-
-
 **Put you IP ADDRESS and PORT:**
 ```
-  The place your IP in the place YOUR_SERVER_IP do not remove the quotation marks. And you PORT write any port you like
+The place your IP in the place YOUR_SERVER_IP do not remove the quotation marks. And you PORT write any port you like
 ```
 
 **Run the script:**
 ```
-    In Linux do python3 /path_to_the_script/payload.py, in Windows run CMD and run python /path_to_the_script/payload.py
+In Linux do python3 /path_to_the_script/payload.py, in Windows run CMD and run python /path_to_the_script/payload.py
 ```
 
 **Usage RULES:**
 ```
-    THE SCRIPT IS FOR Ethical Use: This tool is intended for educational and ethical purposes only. Do not use it for malicious activities.
+THE SCRIPT IS FOR Ethical Use: This tool is intended for educational and ethical purposes only. Do not use it for malicious activities.
 ```
 
