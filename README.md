@@ -18,7 +18,7 @@ FOR WINDOWS REVERSE SHELL YOU NEED TO MAKE SURE THAT IN THE WINDOWS MACHINE YOU 
 
 **Put you IP ADDRESS and PORT:**
 ```
-The place your IP in the place YOUR_SERVER_IP do not remove the quotation marks.\n And you YOUR_PORT write any port you like (e.g: 4444)
+The place your IP in the place YOUR_SERVER_IP do not remove the quotation marks. And you YOUR_PORT write any port you like (e.g: 4444)
 ```
 
 **Run the script:**
