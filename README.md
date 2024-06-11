@@ -28,6 +28,12 @@ In Linux do "python3 /path_to_the_script/payload.py".
 In Windows run CMD and run "python /path_to_the_script/payload.py"
 ```
 
+**Start the listener**
+```
+Use netcat to do the listener. The command is:
+nc -lvnp YOUR_PORT (e.g:4444) 
+```
+
 **Usage RULES:**
 ```
 THE SCRIPT IS FOR Ethical Use:
