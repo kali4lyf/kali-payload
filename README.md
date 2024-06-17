@@ -4,7 +4,7 @@ THE TOOLS IN FOR EDUTIONAL PURPOSES ONLY AND NOT FOR UNETHICAL PURPOSES. ONLY TR
 
 IN OTHER WISE I WISH YOU ALL THE VERY BEST
 
-* **FOR WINDOWS REVERSE SHELL YOU NEED TO MAKE SURE THAT IN THE WINDOWS MACHINE YOU HAVE PYTHON INSTALLED
+* FOR WINDOWS REVERSE SHELL YOU NEED TO MAKE SURE THAT IN THE WINDOWS MACHINE YOU HAVE PYTHON INSTALLED
 
 
 # INSTALLION
@@ -17,13 +17,13 @@ cd kali-payload
 
 
 **Put you IP ADDRESS and PORT:**
-```
+```bash
 The place your IP in the place YOUR_SERVER_IP do not remove the quotation mark.
 Place YOUR_PORT write any port you like (e.g: 4444)
 ```
 
 **Run the script:**
-```
+```bash
 In Linux do "python3 /path_to_the_script/payload.py".
 In Windows run CMD and run "python /path_to_the_script/payload.py"
 ```
